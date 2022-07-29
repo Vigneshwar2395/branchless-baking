@@ -1,0 +1,17 @@
+.customDiv{
+    margin: 3px;
+    min-height: 310px;
+    background-color: rgba(255, 98, 105, 0.5);
+    font-size: large;
+    text-align: center;
+    
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.customDiv .navbar{
+    text-align: left;
+    margin: inherit;
+    background-color: inherit;
+    margin: inherit;
+    font-size: inherit;
+}
